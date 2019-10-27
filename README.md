@@ -8,7 +8,7 @@ Photoshop: legend and graphic
 
 Icons designed by Freepik (flaticon.com/authors/freepik), Good Ware (flaticon.com/authors/good-ware), and Smashicons (flaticon.com/authors/smashicons) from www.flaticon.com
 
-Data from litere review by Turconi, Boldrin, & Astrup (2013)
+Data from literature review by Turconi, Boldrin, & Astrup (2013)
 
 Reference
 Turconi, R., Boldrin, A., Astrup, T. 2013. Life cycle assessment (LCA) of electricity generation technologies: Overview, comparability and limitations. Renewable and Sustainable Energy Reviews. Vol 28. pg 555 -565. doi: 10.1016/j.rser.2013.08.013.
