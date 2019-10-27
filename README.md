@@ -6,7 +6,8 @@ Microsoft Excel: data collection
 Spyder for Python: data visualization
 Photoshop: legend and graphic
 
-Icons designed by Freepik (flaticon.com/authors/freepik), Good Ware (flaticon.com/authors/good-ware), and Smashicons (flaticon.com/authors/smashicons) from www.flaticon.com 
+Icons designed by Freepik (flaticon.com/authors/freepik), Good Ware (flaticon.com/authors/good-ware), and Smashicons (flaticon.com/authors/smashicons) from www.flaticon.com
+
 Data from litere review by Turconi, Boldrin, & Astrup (2013)
 
 Reference
